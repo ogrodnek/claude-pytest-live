@@ -1,0 +1,5 @@
+{
+  "name": "claude-pytest-live",
+  "owner": { "name": "ogrodnek" },
+  "plugins": [{ "name": "pytest-live", "source": "./" }]
+}

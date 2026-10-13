@@ -1,0 +1,6 @@
+{
+  "name": "pytest-live",
+  "version": "0.1.0",
+  "description": "Live view of running pytest sessions: a pane and a status line",
+  "types": "./types/index.d.ts"
+}
